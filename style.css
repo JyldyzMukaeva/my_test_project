@@ -1,0 +1,25 @@
+.content h1 {
+    font-family: "Campanella";
+    color: #CEB076;
+    font-weight: 400;
+    margin: 0;
+    line-height: 115px;
+    font-size: 72px;
+}
+
+.content p {
+    font-family: "Gilroy";
+    font-weight: 400;
+    font-size: 18px;
+    color: #ffffff;
+    line-height: 22px;
+}
+
+.sign p {
+    text-align: center;
+    font-family: "Gilroy";
+    font-weight: bold;
+    font-size: 18px;
+    color: #ffffff;
+    line-height: 22px;
+}
